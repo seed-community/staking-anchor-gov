@@ -5,8 +5,10 @@
 - 管理员可以设置费率
 
 
-[![Basic](https://github.com/wanyvic/staking-anchor-gov/actions/workflows/Basic.yml/badge.svg)](https://github.com/wanyvic/staking-anchor-gov/actions/workflows/Basic.yml)
 # architecture
+
+[![Basic](https://github.com/seed-community/staking-anchor-gov/actions/workflows/Basic.yml/badge.svg)](https://github.com/seed-community/staking-anchor-gov/actions/workflows/Basic.yml)
+[![codecov](https://codecov.io/gh/seed-community/staking-anchor-gov/branch/main/graph/badge.svg?token=QGOY6T0251)](https://codecov.io/gh/seed-community/staking-anchor-gov)
 ## State variables
 ### Config
 | name            | data structure          | option          |
